@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/bin/bash
 # for the first time wee need 'em'
 mkdir -p /opt/redis
 docker run -name redis -d \
